@@ -9,7 +9,7 @@ I am a **Data Analyst** specializing in **Climate Finance and Governance**. My f
 ### 🛠️ My Skill Set
 
 - **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![Golang](https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-- **Data Analysis**: Pandas, NumPy
+- **Data Analysis**: Pandas, NumPy, dplyr, Tidyverse
 - **Visualization**: Matplotlib, Seaborn, ggplot2, Plotly, **Tableau**, **Power BI**
 - **Databases**: MySQL, PostgreSQL, SQLite
 - **Tools**: Git, Docker, Jupyter Notebooks, VS Code, RStudio
@@ -41,7 +41,5 @@ I am a **Data Analyst** specializing in **Climate Finance and Governance**. My f
 Reach out or explore my repositories for projects on climate finance and data-driven climate governance!
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-profile&show_icons=true&theme=radical)
 
 ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=your-profile)
